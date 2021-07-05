@@ -4,8 +4,7 @@
 <meta name="vieport" content="width=device-width, initial-scale=1">
 <title>table</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-<script src="https://maxcdn.bootstrapcdn.com/botstrap/3.3.6/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/cerulean/bootstrap.min.css">
 </head>
 
 <body>
